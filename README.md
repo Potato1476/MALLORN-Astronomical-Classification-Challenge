@@ -52,3 +52,31 @@ pip install numpy pandas scikit-learn xgboost lightgbm tsfresh matplotlib seabor
 
 - The notebooks are designed for the MALLORN dataset structure and may need minor path changes if you reorganize data locally.
 - Score values included in notebook filenames reflect experiments at the time of submission.
+
+## Leaderboard score distribution
+
+Source: Kaggle public leaderboard export (2025-12-24).
+
+```text
+Score distribution (public leaderboard)
+0.00000-0.03514 | ##### 14
+0.03514-0.07028 |  1
+0.07028-0.10542 | ###### 17
+0.10542-0.14056 | ### 9
+0.14056-0.17570 | # 3
+0.17570-0.21084 |  1
+0.21084-0.24598 | # 3
+0.24598-0.28112 | ### 7
+0.28112-0.31626 | #### 10
+0.31626-0.35140 | ### 9
+0.35140-0.38654 | #### 11
+0.38654-0.42168 | ###### 15
+0.42168-0.45682 | ########### 31
+0.45682-0.49196 | ########### 31
+0.49196-0.52710 | ################## 48
+0.52710-0.56224 | ################# 46
+0.56224-0.59738 | #################### 54
+0.59738-0.63252 | ############################## 81
+0.63252-0.66766 | ######################## 65
+0.66766-0.70280 | ###### 17
+```
